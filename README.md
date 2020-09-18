@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lucasbesen/lucasbesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been working with software development since 2015 but I've been programming since 2013 when I made some game automations. I love to work with great and complex things, passion for solving problems, delivering great user experiences and making ideas come to life.
 
-Here are some ideas to get you started:
+I've been working with a full-stack approach since ever and I learned strong concepts about backend, frontend web and mobile. Nowadays I've been focusing on frontend development specially in mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some hard skills I've been practicing and I have experience to help anyone:
+
+- JavaScript
+- React and React Native
+- Frontend architectures using either state management tools like Redux/Mobx or GraphQL clients like Relay/Apollo
+- Backend development using Node.js with emphasis on GraphQL APIs
+
+I'm passionate about self-improvement. Some soft skills I have:
+
+- Lifelong learner
+- Very communicative
+- Friendly and helpful
+- Really like to help the dev community
+
+### Get in touch
+* Twitter: [lucasbesen](https://twitter.com/lucasbesen)
+* LinkedIn: [lucasbesen](https://www.linkedin.com/in/lucasbesen/)
+* Dev.to: [dev.to/lucasbesen](https://dev.to/lucasbesen)
