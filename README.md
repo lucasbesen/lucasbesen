@@ -13,7 +13,6 @@ Some hard skills I've been practicing and I have experience to help anyone:
 
 I'm passionate about self-improvement. Some soft skills I have:
 
-- Lifelong learner
 - Very communicative
 - Friendly and helpful
 - Really like to help the dev community
