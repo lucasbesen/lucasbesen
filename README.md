@@ -18,6 +18,6 @@ I'm passionate about self-improvement. Some soft skills I have:
 - Really like to help the dev community
 
 ### Get in touch
+* Website: [lucasbesen.com](https://lucasbesen.com/)
 * Twitter: [lucasbesen](https://twitter.com/lucasbesen)
 * LinkedIn: [lucasbesen](https://www.linkedin.com/in/lucasbesen/)
-* Dev.to: [dev.to/lucasbesen](https://dev.to/lucasbesen)
