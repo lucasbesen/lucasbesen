@@ -1,18 +1,19 @@
 ## Hi there 👋
 
-I'm a Software Engineer that loves to work with great and complex things. I have passion for solving problems, delivering great user experiences and making ideas come to life.
+I'm a Software Engineer who loves to work with complex things. I have passion for solving problems, delivering great user experiences and making ideas come to life.
 
-I've worked mostly in a full-stack approach and I learned strong concepts about backend, frontend web and mobile. Nowadays I've been focusing on frontend development specially in mobile applications.
+I've worked mostly in a full-stack approach and I learned strong concepts about backend, frontend web and mobile.
 
 Some hard skills I've been practicing and I have experience to help anyone:
 
-- JavaScript
+- JavaScript/TypeScript
 - React and React Native
 - Frontend architectures using either state management tools like Redux/Mobx or GraphQL clients like Relay/Apollo
-- Backend development using Node.js with emphasis on GraphQL APIs
+- Backend development using Node.js
 
 I'm passionate about self-improvement. Some soft skills I have:
 
+- Lifelong learner
 - Very communicative
 - Friendly and helpful
 - Really like to help the dev community
