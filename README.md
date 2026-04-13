@@ -1,24 +1,15 @@
 ## Hi there 👋
 
-I'm a Software Engineer who loves to work with complex things. I have passion for solving problems, delivering great user experiences and making ideas come to life.
+Software Engineer with 10+ years of experience building product-driven solutions and scaling complex systems.
 
-I've worked mostly in a full-stack approach and I learned strong concepts about backend, frontend web and mobile.
+I work across the full stack, with strong experience in frontend architecture and product development. Over time, I've taken ownership of core product areas, contributing not just to implementation but also to product decisions and prioritization.
 
-Some hard skills I've been practicing and I have experience to help anyone:
+Currently, I'm one of the early engineers at a Y Combinator startup, where I help shape both the technical architecture and the product roadmap. I work closely with the CEO, CTO, and team to evaluate trade-offs and decide what's worth building.
 
-- JavaScript/TypeScript
-- React and React Native
-- Frontend architectures using either state management tools like Redux/Mobx or GraphQL clients like Relay/Apollo
-- Backend development using Node.js
+I care a lot about UI/UX and enjoy turning complex requirements into simple, intuitive experiences. I'm especially interested in the intersection of engineering and product, where small decisions can have a big impact on usability and speed.
 
-I'm passionate about self-improvement. Some soft skills I have:
-
-- Lifelong learner
-- Very communicative
-- Friendly and helpful
-- Really like to help the dev community
+Core skills: JavaScript / TypeScript, React, React Native, Node.js, GraphQL, frontend and backend architecture, system design.
 
 ### Get in touch
-* Website: [lucasbesen.com](https://lucasbesen.com/)
 * Twitter: [lucasbesen](https://twitter.com/lucasbesen)
 * LinkedIn: [lucasbesen](https://www.linkedin.com/in/lucasbesen/)
